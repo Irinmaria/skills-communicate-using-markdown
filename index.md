@@ -6,3 +6,6 @@
 ###### 
 
 ![Image of Yaktocat](https://vidyaacademy.ac.in/admin/upload/album_gallery/2135053052_album_8.jpg)
+``` javascript
+var myVar = "Hello, world!";
+```
